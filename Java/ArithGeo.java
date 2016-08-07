@@ -20,12 +20,6 @@ public class ArithGeo {
 		
 	}
 	
-	public static void main (String[] args){
-		//Scanner s = new Scanner(System.in);
-		int[] arr = {5,25,125,625,3125};
-		System.out.print(ArithGeo(arr));
-
-	}
-
-
 }
+
+
